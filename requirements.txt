@@ -4,4 +4,3 @@ numpy
 seaborn
 matplotlib
 google.colab
-google.os
