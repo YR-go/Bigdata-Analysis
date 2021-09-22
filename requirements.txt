@@ -2,6 +2,6 @@ Streamlit == 0.88.0
 pandas
 numpy
 seaborn
-matplotlib.pyplot
-google.colab.drive
+matplotlib
+google.colab
 os
